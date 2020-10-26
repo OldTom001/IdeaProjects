@@ -3,7 +3,7 @@ package StandardClass;
 public class StudentDemo {
     public static void main(String[] args) {
         //创建对象
-        Student s = new Student("林青霞哈哈哈", 30);
+        Student s = new Student("林青霞", 30);
         s.show();
 
         //使用set方法给成员变量赋值
@@ -14,3 +14,6 @@ public class StudentDemo {
         System.out.println(s.getName() + "---" + s.getAge());
     }
 }
+/*
+* 修改1
+* */

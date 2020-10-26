@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d6cdaf5-6ccd-4e3b-9aae-8721725cc261" name="Default Changelist" comment="" />
+    <list default="true" id="0d6cdaf5-6ccd-4e3b-9aae-8721725cc261" name="Default Changelist" comment="Revert &quot;加了一行注释&quot;&#10;&#10;This reverts commit ac2396b">
+      <change beforePath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyClass/src/StandardClass/StudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyClass/src/StandardClass/StudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSE_Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSE_Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaSE_Code/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,26 +65,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="340979108">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyClass/src/StandardClass/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -84,8 +89,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyClass/src/StandardClass/StudentDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="227">
+              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaPractice.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyClass/src/ConstructionMethod/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyClass/src/ConstructionMethod/StudentDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -98,6 +130,15 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="12029f7045093798037a2061f44d2da7edb8131b" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -127,18 +168,18 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1929" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="272" />
+    <option name="y" value="406" />
+    <option name="width" value="1400" />
+    <option name="height" value="775" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,6 +201,13 @@
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="MyClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="StandardClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -167,12 +215,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603684937949" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603689489580" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/MyMethod" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -193,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentDemo (1)">
+  <component name="RunManager" selected="Application.StudentDemo">
     <configuration name="DebugTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyTest.DebugTest" />
       <module name="Test" />
@@ -259,53 +308,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="MyMethod" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="MyMethod" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.MTest01" />
       <item itemvalue="Application.DebugTest" />
@@ -315,8 +317,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentDemo (1)" />
         <item itemvalue="Application.StudentDemo" />
+        <item itemvalue="Application.StudentDemo (1)" />
         <item itemvalue="Application.PhoneDemo" />
         <item itemvalue="Application.MTest01" />
         <item itemvalue="Application.DebugTest" />
@@ -338,16 +340,17 @@
       <workItem from="1603280746258" duration="3011000" />
       <workItem from="1603350442324" duration="121000" />
       <workItem from="1603350587746" duration="2331000" />
+      <workItem from="1603689207292" duration="282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11829000" />
+    <option name="totallyTimeSpent" value="13503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21514745" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22050938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -356,7 +359,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="2" visible="true" weight="0.32892805" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -373,15 +376,46 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" weight="0.29758713" />
+      <window_info anchor="right" id="Run" order="9" weight="0.230563" />
       <window_info anchor="right" id="Debug" order="10" weight="0.386059" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="加了一个哈哈哈" />
+    <MESSAGE value="Revert &quot;加了一行注释&quot;&#10;&#10;This reverts commit ac2396b" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;加了一行注释&quot;&#10;&#10;This reverts commit ac2396b" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -405,9 +439,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ArrayTest/Test01.java" />
     <entry file="file://$PROJECT_DIR$/MyArray/src/ArrayTest/Test01.java" />
-    <entry file="file://$PROJECT_DIR$/JavaPractice.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/MyArray/src/ArrayTest/ATest01.java" />
     <entry file="file://$PROJECT_DIR$/MyMethod/src/MethodTest/MTest01.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -437,47 +468,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyClass/src/ConstructionMethod/StudentDemo.java">
+    <entry file="file://$PROJECT_DIR$/MyClass/src/StandardClass/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="150">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyClass/src/ConstructionMethod/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyClass/src/StandardClass/Student.java">
+    <entry file="file://$PROJECT_DIR$/MyClass/src/ConstructionMethod/StudentDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaPractice.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyClass/src/StandardClass/StudentDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="227">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
         </state>
       </provider>
     </entry>
