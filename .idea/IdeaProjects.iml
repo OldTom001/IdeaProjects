@@ -5,6 +5,13 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/JavaPractice/MyClass/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaPractice/MyMethod/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaPractice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSE_Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaPractice/out/production/MyArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaPractice/out/production/MyClass" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaPractice/out/production/MyMethod" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaPractice/out/production/Test" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

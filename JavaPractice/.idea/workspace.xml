@@ -127,10 +127,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="325" />
-    <option name="y" value="325" />
-    <option name="width" value="1400" />
-    <option name="height" value="775" />
+    <option name="x" value="-1929" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -172,7 +172,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603354942706" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603684937949" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/MyMethod" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -193,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentDemo">
+  <component name="RunManager" selected="Application.StudentDemo (1)">
     <configuration name="DebugTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyTest.DebugTest" />
       <module name="Test" />
@@ -315,8 +315,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentDemo" />
         <item itemvalue="Application.StudentDemo (1)" />
+        <item itemvalue="Application.StudentDemo" />
         <item itemvalue="Application.PhoneDemo" />
         <item itemvalue="Application.MTest01" />
         <item itemvalue="Application.DebugTest" />
