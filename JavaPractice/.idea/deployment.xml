@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="PublishConfigData" serverName="JavaPractice">
     <serverData>
       <paths name="JavaPractice">
+=======
+  <component name="PublishConfigData" serverName="111" uploadOnCheckin="9bd1b680-31ac-4c3a-a3f7-dad1d0022223">
+    <serverData>
+      <paths name="111">
+>>>>>>> origin/master
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$/MyClass" web="/" />
@@ -11,5 +17,9 @@
         </serverdata>
       </paths>
     </serverData>
+<<<<<<< HEAD
+=======
+    <option name="myUploadOnCheckinName" value="111" />
+>>>>>>> origin/master
   </component>
 </project>

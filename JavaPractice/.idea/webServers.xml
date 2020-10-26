@@ -2,7 +2,11 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
+<<<<<<< HEAD
       <webServer id="9bd1b680-31ac-4c3a-a3f7-dad1d0022223" name="JavaPractice" url="https://github.com/SuelyChu/IdeaProjects.git">
+=======
+      <webServer id="9bd1b680-31ac-4c3a-a3f7-dad1d0022223" name="111" url="https://github.com/SuelyChu/IdeaProjects.git">
+>>>>>>> origin/master
         <fileTransfer host="" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
