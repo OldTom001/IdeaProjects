@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d6cdaf5-6ccd-4e3b-9aae-8721725cc261" name="Default Changelist" comment="加入案例: 统计字符串中大写字母小写字母以及数字的个数.BigOrSmallOrNum">
-      <change afterPath="$PROJECT_DIR$/MyString/src/StringTest/BigOrSmallOrNum.java" afterDir="false" />
+    <list default="true" id="0d6cdaf5-6ccd-4e3b-9aae-8721725cc261" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyString/src/StringTest/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyString/src/StringTest/StringCombine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,24 +72,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="545" />
+          <entry key="java" value="1094" />
           <entry key="txt" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="545" />
+          <entry key="JAVA" value="1094" />
           <entry key="PLAIN_TEXT" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -122,11 +123,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyString/src/StringTest/BigOrSmallOrNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="360">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyString/src/StringTest/StringCombine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="22" column="1" lean-forward="true" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyString/src/StringTest/Reverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -163,6 +182,8 @@
         <option value="$PROJECT_DIR$/MyClass/src/StandardClass/StudentDemo.java" />
         <option value="$PROJECT_DIR$/MyString/src/StringTest/traversal.java" />
         <option value="$PROJECT_DIR$/MyString/src/StringTest/BigOrSmallOrNum.java" />
+        <option value="$PROJECT_DIR$/MyString/src/StringTest/StringCombine.java" />
+        <option value="$PROJECT_DIR$/MyString/src/StringTest/Reverse.java" />
       </list>
     </option>
   </component>
@@ -238,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603698484849" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603699669444" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/MyMethod" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -259,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BigOrSmallOrNum">
+  <component name="RunManager" selected="Application.StringCombine">
     <configuration name="BigOrSmallOrNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringTest.BigOrSmallOrNum" />
       <module name="MyString" />
@@ -286,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstructionMethod.StudentDemo" />
-      <module name="MyClass" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTest.Reverse" />
+      <module name="MyString" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConstructionMethod.*" />
+          <option name="PATTERN" value="StringTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +320,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StandardClass.StudentDemo" />
-      <module name="MyClass" />
+    <configuration name="StringCombine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTest.StringCombine" />
+      <module name="MyString" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StandardClass.*" />
+          <option name="PATTERN" value="StringTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,18 +348,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.DebugTest" />
-      <item itemvalue="Application.StudentDemo" />
-      <item itemvalue="Application.StudentDemo (1)" />
       <item itemvalue="Application.traversal" />
       <item itemvalue="Application.BigOrSmallOrNum" />
+      <item itemvalue="Application.StringCombine" />
+      <item itemvalue="Application.Reverse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringCombine" />
+        <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.BigOrSmallOrNum" />
         <item itemvalue="Application.traversal" />
         <item itemvalue="Application.DebugTest" />
-        <item itemvalue="Application.StudentDemo" />
-        <item itemvalue="Application.StudentDemo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +379,7 @@
       <workItem from="1603350442324" duration="121000" />
       <workItem from="1603350587746" duration="2331000" />
       <workItem from="1603689207292" duration="282000" />
-      <workItem from="1603697039845" duration="1415000" />
+      <workItem from="1603697039845" duration="2519000" />
     </task>
     <task id="LOCAL-00001" summary="修改3">
       <created>1603690474276</created>
@@ -388,11 +409,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603697712916</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="加入案例: 统计字符串中大写字母小写字母以及数字的个数.BigOrSmallOrNum">
+      <created>1603698501697</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603698501697</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16245000" />
+    <option name="totallyTimeSpent" value="17349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -405,7 +433,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.32892805" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32892805" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.18502203" />
       <window_info anchor="bottom" id="Terminal" order="3" />
@@ -424,7 +452,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" visible="true" weight="0.230563" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.230563" />
       <window_info anchor="right" id="Debug" order="10" weight="0.386059" />
     </layout>
   </component>
@@ -563,8 +591,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyString/src/StringTest/BigOrSmallOrNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="360">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyString/src/StringTest/StringCombine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="22" column="1" lean-forward="true" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyString/src/StringTest/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
