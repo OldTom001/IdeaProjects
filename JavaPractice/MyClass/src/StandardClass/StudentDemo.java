@@ -14,6 +14,3 @@ public class StudentDemo {
         System.out.println(s.getName() + "---" + s.getAge());
     }
 }
-/*
-* 再试一次
-* */
