@@ -1,15 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d6cdaf5-6ccd-4e3b-9aae-8721725cc261" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyArrayList/MyArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyArrayList/src/ArrayListTest/ArrayListTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyArrayList/src/ArrayListTest/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentManager/StudentManager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentManager/src/MyManager/Manager01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentManager/src/MyManager/Student.java" afterDir="false" />
+    <list default="true" id="0d6cdaf5-6ccd-4e3b-9aae-8721725cc261" name="Default Changelist" comment="加入案例: 1-创建集合存储学生对象; 2-学生管理系统">
+      <change afterPath="$PROJECT_DIR$/MyAbstractClass/MyAbstractClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyExtends/MyExtends.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyExtends/src/ExtendsTest/ExtendsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyExtends/src/ExtendsTest/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyExtends/src/ExtendsTest/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyExtends/src/ExtendsTest/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/MyInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest/Jumpping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/BasketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/BasketPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/English.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/PingpangCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/PingpangPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPolym/MyPolym.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPolym/src/PolymTest/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPolym/src/PolymTest/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPolym/src/PolymTest/AnimalOpetator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPolym/src/PolymTest/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPolym/src/PolymTest/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSE_Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSE_Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSE_Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSE_Code/idea_demo/idea_demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSE_Code/idea_test/idea_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSE_Code/idea_test/src/com/itheima/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSE_Code/out/production/idea_test/com/itheima/HelloWorld.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,32 +101,33 @@
     <session id="340979108">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5307" />
-          <entry key="txt" value="157" />
+          <entry key="java" value="8007" />
+          <entry key="txt" value="193" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5307" />
-          <entry key="PLAIN_TEXT" value="157" />
+          <entry key="JAVA" value="8007" />
+          <entry key="PLAIN_TEXT" value="193" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="59" />
         </counts>
       </usages-collector>
     </session>
@@ -102,43 +135,136 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudentManager/src/MyManager/Student.java">
+        <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1400">
-              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+            <state relative-caret-position="784">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
               <folding>
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#649#650#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
                 <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StudentManager/src/MyManager/Manager01.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Coach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+            <state relative-caret-position="280">
+              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#193#202#0" expanded="true" />
-                <element signature="method#deleteStudent#0;class#Manager01#0" />
-                <element signature="method#updateStudent#0;class#Manager01#0" />
-                <element signature="method#findAllStudent#0;class#Manager01#0" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/PingpangPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/InterfaceDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyExtends/src/ExtendsTest/ExtendsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyPolym/src/PolymTest/AnimalOpetator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyPolym/src/PolymTest/AnimalDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/BasketCoach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/PingpangCoach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,6 +275,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -187,6 +314,35 @@
         <option value="$PROJECT_DIR$/MyArrayList/src/ArrayListTest/Student.java" />
         <option value="$PROJECT_DIR$/StudentManager/src/MyManager/Student.java" />
         <option value="$PROJECT_DIR$/StudentManager/src/MyManager/Manager01.java" />
+        <option value="$PROJECT_DIR$/MyExtends/src/ExtendsTest/Person.java" />
+        <option value="$PROJECT_DIR$/MyExtends/src/ExtendsTest/Student.java" />
+        <option value="$PROJECT_DIR$/MyExtends/src/ExtendsTest/Teacher.java" />
+        <option value="$PROJECT_DIR$/MyExtends/src/ExtendsTest/ExtendsDemo.java" />
+        <option value="$PROJECT_DIR$/MyPolym/src/PolymTest/Animal.java" />
+        <option value="$PROJECT_DIR$/MyPolym/src/PolymTest/Cat.java" />
+        <option value="$PROJECT_DIR$/MyPolym/src/PolymTest/Dog.java" />
+        <option value="$PROJECT_DIR$/MyPolym/src/PolymTest/AnimalDemo.java" />
+        <option value="$PROJECT_DIR$/MyPolym/src/PolymTest/AnimalOpetator.java" />
+        <option value="$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/Cat.java" />
+        <option value="$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/Dog.java" />
+        <option value="$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/AnimalDemo.java" />
+        <option value="$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/Animal.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest/Jumpping.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest/Animal.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest/Dog.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest/Cat.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest/AnimalDemo.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/SpeakEnglish.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/LearnEnglish.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/English.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Person.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Coach.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Player.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/BasketPlayer.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/BasketCoach.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/PingpangCoach.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/PingpangPlayer.java" />
+        <option value="$PROJECT_DIR$/MyInterface/src/InterfaceTest02/InterfaceDemo.java" />
       </list>
     </option>
   </component>
@@ -203,10 +359,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1414" />
-    <option name="y" value="103" />
-    <option name="width" value="1400" />
-    <option name="height" value="775" />
+    <option name="x" value="-1888" />
+    <option name="y" value="127" />
+    <option name="width" value="1800" />
+    <option name="height" value="958" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -214,8 +370,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,43 +380,52 @@
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="StudentManager" type="462c0819:PsiDirectoryNode" />
+              <item name="MyAbstractClass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="StudentManager" type="462c0819:PsiDirectoryNode" />
+              <item name="MyAbstractClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="StudentManager" type="462c0819:PsiDirectoryNode" />
+              <item name="MyAbstractClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyManager" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="MyInterface" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="MyInterface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="MyInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="InterfaceTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603723076316" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603807087120" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/MyMethod" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -283,13 +446,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Manager01">
-    <configuration name="ArrayListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListTest.ArrayListTest01" />
-      <module name="MyArrayList" />
+  <component name="RunManager" selected="Application.InterfaceDemo">
+    <configuration name="AnimalDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractTest.AnimalDemo" />
+      <module name="MyAbstractClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayListTest.*" />
+          <option name="PATTERN" value="AbstractTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +460,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Manager01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyManager.Manager01" />
-      <module name="StudentManager" />
+    <configuration name="AnimalDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceTest.AnimalDemo" />
+      <module name="MyInterface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyManager.*" />
+          <option name="PATTERN" value="InterfaceTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +473,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilder01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTest.StringBuilder01" />
-      <module name="MyString" />
+    <configuration name="AnimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymTest.AnimalDemo" />
+      <module name="MyPolym" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringTest.*" />
+          <option name="PATTERN" value="PolymTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +486,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilder03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTest.StringBuilder03" />
-      <module name="MyString" />
+    <configuration name="ExtendsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtendsTest.ExtendsDemo" />
+      <module name="MyExtends" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringTest.*" />
+          <option name="PATTERN" value="ExtendsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,12 +499,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilder04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTest.StringBuilder04" />
-      <module name="MyString" />
+    <configuration name="InterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceTest02.InterfaceDemo" />
+      <module name="MyInterface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringTest.*" />
+          <option name="PATTERN" value="InterfaceTest02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,19 +513,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringBuilder01" />
-      <item itemvalue="Application.StringBuilder03" />
-      <item itemvalue="Application.StringBuilder04" />
-      <item itemvalue="Application.ArrayListTest01" />
-      <item itemvalue="Application.Manager01" />
+      <item itemvalue="Application.ExtendsDemo" />
+      <item itemvalue="Application.AnimalDemo" />
+      <item itemvalue="Application.AnimalDemo (1)" />
+      <item itemvalue="Application.AnimalDemo (2)" />
+      <item itemvalue="Application.InterfaceDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Manager01" />
-        <item itemvalue="Application.ArrayListTest01" />
-        <item itemvalue="Application.StringBuilder01" />
-        <item itemvalue="Application.StringBuilder04" />
-        <item itemvalue="Application.StringBuilder03" />
+        <item itemvalue="Application.InterfaceDemo" />
+        <item itemvalue="Application.AnimalDemo (2)" />
+        <item itemvalue="Application.AnimalDemo (1)" />
+        <item itemvalue="Application.AnimalDemo" />
+        <item itemvalue="Application.ExtendsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +545,8 @@
       <workItem from="1603350442324" duration="121000" />
       <workItem from="1603350587746" duration="2331000" />
       <workItem from="1603689207292" duration="282000" />
-      <workItem from="1603697039845" duration="16668000" />
+      <workItem from="1603697039845" duration="16998000" />
+      <workItem from="1603763793875" duration="12659000" />
     </task>
     <task id="LOCAL-00001" summary="修改3">
       <created>1603690474276</created>
@@ -440,11 +604,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603713410242</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="加入案例: 1-创建集合存储学生对象; 2-学生管理系统">
+      <created>1603723164465</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603723164465</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31498000" />
+    <option name="totallyTimeSpent" value="44487000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,9 +628,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16689008" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19504021" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -468,7 +638,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.19530103" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.22613803" />
+      <window_info anchor="bottom" id="Version Control" order="2" visible="true" weight="0.19236417" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32892805" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -485,39 +655,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" weight="0.2841823" />
-      <window_info active="true" anchor="right" id="Debug" order="10" visible="true" weight="0.29021448" />
+      <window_info anchor="right" id="Run" order="9" visible="true" weight="0.18096514" />
+      <window_info anchor="right" id="Debug" order="10" weight="0.29021448" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19101876" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.19530103" />
-      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.22613803" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32892805" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" weight="0.32892805" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Run" order="9" visible="true" weight="0.230563" />
-      <window_info anchor="right" id="Debug" order="10" weight="0.386059" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -559,7 +699,8 @@
     <MESSAGE value="加入案例: 统计字符串中大写字母小写字母以及数字的个数.BigOrSmallOrNum" />
     <MESSAGE value="加入案例: 字符串拼接(StringCombine)与字符串反转(Reverse)" />
     <MESSAGE value="加入案例: 1-创建一个Stringbuilder; 2-使用append和reverse方法进行字符串构建与反转; 3-构建方法, 将数组拼接成字符串; 4-构建方法, 使字符串反转" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入案例: 1-创建一个Stringbuilder; 2-使用append和reverse方法进行字符串构建与反转; 3-构建方法, 将数组拼接成字符串; 4-构建方法, 使字符串反转" />
+    <MESSAGE value="加入案例: 1-创建集合存储学生对象; 2-学生管理系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入案例: 1-创建集合存储学生对象; 2-学生管理系统" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -569,12 +710,6 @@
           <line>7</line>
           <properties />
           <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/StudentManager/src/MyManager/Manager01.java</url>
-          <line>48</line>
-          <properties />
-          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -587,9 +722,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ArrayTest/Test01.java" />
-    <entry file="file://$PROJECT_DIR$/MyArray/src/ArrayTest/Test01.java" />
-    <entry file="file://$PROJECT_DIR$/MyArray/src/ArrayTest/ATest01.java" />
     <entry file="file://$PROJECT_DIR$/MyMethod/src/MethodTest/MTest01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -702,81 +834,368 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyArrayList/src/ArrayListTest/ArrayTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MyArrayList/src/ArrayListTest/ArrayTest01.java" />
     <entry file="file://$PROJECT_DIR$/MyArrayList/src/ArrayListTest/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyArrayList/src/ArrayListTest/ArrayListTest01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="e#279#288#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyClass/src/StandardClass/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudentManager/src/MyManager/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1400">
-          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-          <folding>
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StudentManager/src/MyManager/Manager01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        <state relative-caret-position="1232">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#193#202#0" expanded="true" />
             <element signature="method#deleteStudent#0;class#Manager01#0" />
             <element signature="method#updateStudent#0;class#Manager01#0" />
             <element signature="method#findAllStudent#0;class#Manager01#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentManager/src/MyManager/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyClass/src/StandardClass/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyExtends/src/ExtendsTest/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyExtends/src/ExtendsTest/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyExtends/src/ExtendsTest/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPolym/src/PolymTest/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPolym/src/PolymTest/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPolym/src/PolymTest/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/AnimalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAbstractClass/src/AbstractTest/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest/Jumpping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest/AnimalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="2" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/SpeakEnglish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/LearnEnglish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/English.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/BasketPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/PingpangCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/PingpangPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/BasketCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterface/src/InterfaceTest02/InterfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyExtends/src/ExtendsTest/ExtendsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPolym/src/PolymTest/AnimalOpetator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPolym/src/PolymTest/AnimalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -832,7 +1251,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>MyArrayList</last-edited>
+          <last-edited>MyInterface</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaPractice.iml" filepath="$PROJECT_DIR$/JavaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAbstractClass/MyAbstractClass.iml" filepath="$PROJECT_DIR$/MyAbstractClass/MyAbstractClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyArrayList/MyArrayList.iml" filepath="$PROJECT_DIR$/MyArrayList/MyArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyClass/MyClass.iml" filepath="$PROJECT_DIR$/MyClass/MyClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyExtends/MyExtends.iml" filepath="$PROJECT_DIR$/MyExtends/MyExtends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyInterface/MyInterface.iml" filepath="$PROJECT_DIR$/MyInterface/MyInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyMethod/MyMethod.iml" filepath="$PROJECT_DIR$/MyMethod/MyMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPolym/MyPolym.iml" filepath="$PROJECT_DIR$/MyPolym/MyPolym.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyString/MyString.iml" filepath="$PROJECT_DIR$/MyString/MyString.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentManager/StudentManager.iml" filepath="$PROJECT_DIR$/StudentManager/StudentManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
