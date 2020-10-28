@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyExtends/MyExtends.iml" filepath="$PROJECT_DIR$/MyExtends/MyExtends.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyInterface/MyInterface.iml" filepath="$PROJECT_DIR$/MyInterface/MyInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyMethod/MyMethod.iml" filepath="$PROJECT_DIR$/MyMethod/MyMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyObject/MyObject.iml" filepath="$PROJECT_DIR$/MyObject/MyObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyPolym/MyPolym.iml" filepath="$PROJECT_DIR$/MyPolym/MyPolym.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyString/MyString.iml" filepath="$PROJECT_DIR$/MyString/MyString.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentManager/StudentManager.iml" filepath="$PROJECT_DIR$/StudentManager/StudentManager.iml" />

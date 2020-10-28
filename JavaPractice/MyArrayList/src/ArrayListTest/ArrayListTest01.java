@@ -2,7 +2,7 @@ package ArrayListTest;
 
 import java.util.ArrayList;
 
-/*案例:存储学生对象
+/*案例:存储学生对象--集合案例
 1. 定义学生类
 2. 创建集合对象
 3. 创建学生对象

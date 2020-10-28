@@ -1,5 +1,8 @@
 package InterfaceTest02;
 
+import javax.swing.plaf.synth.SynthEditorPaneUI;
+import java.util.prefs.Preferences;
+
 public class InterfaceDemo {
     public static void main(String[] args) {
         BasketCoach bc = new BasketCoach("王治郅", 40);
@@ -27,6 +30,7 @@ public class InterfaceDemo {
         pp.practice();
         pp.LearnEnglish();
         System.out.println("----------------");
+
     }
 
 
