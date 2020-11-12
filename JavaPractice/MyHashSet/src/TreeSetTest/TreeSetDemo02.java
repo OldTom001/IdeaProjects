@@ -1,7 +1,5 @@
 package TreeSetTest;
 
-import sun.reflect.generics.tree.Tree;
-
 import java.util.Comparator;
 import java.util.TreeSet;
 
@@ -13,8 +11,10 @@ public class TreeSetDemo02 {
         * new Comparator实际上就是一个对象
         * */
         TreeSet<Student> ts = new TreeSet<>(new Comparator<Student>() {
+//            重写compare方法, 返回正数, 则升序排列, 返回负数, 则降序排列
             @Override
             public int compare(Student s1, Student s2) {
+//                s1是当前对象, s2是上一个对象
                 int num = s1.getAge() - s2.getAge();
                 int num2 = num==0 ? s1.getName().compareTo(s2.getName()) : num; //String类已经重写了compareTo
                 return num2;
