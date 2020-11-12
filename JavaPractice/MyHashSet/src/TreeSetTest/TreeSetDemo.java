@@ -12,7 +12,7 @@ public class TreeSetDemo {
         Student s3 = new Student("shawujing", 30);
         Student s4 = new Student("tangsanzang", 20);
 
-        ts.add(s1);
+        ts.add(s1); //TreeSet中的add方法会调用compareTo方法.
         ts.add(s2);
         ts.add(s3);
         ts.add(s4);

@@ -1,6 +1,8 @@
 package TreeSetTest;
 
-public class Student implements Comparable<Student>{
+import java.util.Comparator;
+
+public class Student implements Comparable<Student> {
     //    成员变量
     private String name;
     private int age;
