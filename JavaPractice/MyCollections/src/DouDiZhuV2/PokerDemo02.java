@@ -57,8 +57,6 @@ public class PokerDemo02 {
         look("猪悟能", zwn, hm);
         look("沙悟净", swj, hm);
         look("底牌", dp, hm);
-
-
     }
 
 //    方法: 看牌
