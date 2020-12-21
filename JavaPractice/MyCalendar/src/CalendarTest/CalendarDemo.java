@@ -10,6 +10,7 @@ public class CalendarDemo {
         System.out.println(c);
 //        public int get​(int field)
         int year = c.get(Calendar.YEAR);
+//        Callendar的月份是从0开始记的, 故+1;
         int month = c.get(Calendar.MONTH) + 1;
         int date = c.get(Calendar.DATE);
         System.out.println(year + "年" + month + "月" + date + "日");

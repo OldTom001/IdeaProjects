@@ -22,6 +22,5 @@ public class HashSetDemo {
         for(Student s : hs) {
             System.out.println(s.getName() + ", " + s.getAge());
         }
-
     }
 }
