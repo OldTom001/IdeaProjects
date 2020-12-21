@@ -22,7 +22,7 @@ public class Panel extends JPanel {
     private final int imageSize = 25;  // 图片的尺寸，作为面板的一个单元
     int[] windowSize = Start.getWindowSize();  // 得到画板的大小
     private int[] food = null;
-    private final int timeInterval = 100;  // 每隔多长时间小蛇前进一步
+    private final int timeInterval = 200;  // 每隔多长时间小蛇前进一步
     private int score;
     ArrayList<Integer[]> direction = new ArrayList<>();  // 用来存放蛇的每一节的位置坐标
     String goDirection = "R";  // 定义蛇的前进方向，默认为向右
@@ -81,7 +81,7 @@ public class Panel extends JPanel {
                     for (int i = direction.size()-1; i > 0; i--) {
                         direction.set(i, direction.get(i-1));
                     }
-                    //  改变蛇头坐标
+                    //  改变蛇头坐标,蛇头前移一个图片大小
                     if (goDirection.equals("R")){
                         direction.set(0, new Integer[]{direction.get(0)[0] + imageSize, direction.get(0)[1]});
                         if (direction.get(0)[0] > windowSize[0] - imageSize){  // 当超出矩形活动范围时，蛇头返回另一边
