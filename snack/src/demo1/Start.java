@@ -12,8 +12,8 @@ public class Start {
     //  窗体的位置和大小，单位是像素
     private static int windowX;
     private static int windowY;
-    private static final int windowWidth = 1400;
-    private static final int windowHeight = 750+30;  // 头部占走30像素，为了保证活动范围为800*800加上30像素
+    private static final int windowWidth = 800;
+    private static final int windowHeight = 800 + 30;  // 头部占走30像素，为了保证活动范围为800*800加上30像素
 
     //  创建一个静态的方法，返回窗体的大小
     public static int[] getWindowSize() {
@@ -43,5 +43,6 @@ public class Start {
         jf.add(pl);
         //将窗体显示出来
         jf.setVisible(true);
+
     }
 }
