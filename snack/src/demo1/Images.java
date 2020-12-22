@@ -29,4 +29,7 @@ public class Images {
 
     public static URL headerURL =  Images.class.getResource("/images/big/header.jpg");
     public static ImageIcon headerImg = new ImageIcon(headerURL);
+
+    public static URL muaURL =  Images.class.getResource("/images/mua.jpg");
+    public static ImageIcon muaImg = new ImageIcon(muaURL);
 }

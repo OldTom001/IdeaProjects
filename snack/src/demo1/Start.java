@@ -43,6 +43,5 @@ public class Start {
         jf.add(pl);
         //将窗体显示出来
         jf.setVisible(true);
-
     }
 }
