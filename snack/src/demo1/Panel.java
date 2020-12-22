@@ -19,10 +19,10 @@ public class Panel extends JPanel {
     private int length;
     private boolean flag = false;  // 定义一个变量，判断游戏是否开始，默认暂停
     private boolean isDie = false;  // 判断小蛇是否活着
-    private final int imageSize = 25;  // 图片的尺寸，作为面板的一个单元
+    private final int imageSize = 50;  // 图片的尺寸，作为面板的一个单元
     int[] windowSize = Start.getWindowSize();  // 得到画板的大小
     private int[] food = null;
-    private final int timeInterval = 200;  // 每隔多长时间小蛇前进一步
+    private final int timeInterval = 150;  // 每隔多长时间小蛇前进一步
     private int score;
     ArrayList<Integer[]> direction = new ArrayList<>();  // 用来存放蛇的每一节的位置坐标
     String goDirection = "R";  // 定义蛇的前进方向，默认为向右
@@ -99,7 +99,7 @@ public class Panel extends JPanel {
                         }
                     }else if (goDirection.equals("D")) {
                         direction.set(0, new Integer[]{direction.get(0)[0], direction.get(0)[1] + imageSize});
-                        if (direction.get(0)[1] > windowSize[1] - imageSize -30) {  // 当超出矩形活动范围时，蛇头返回另一边
+                        if (direction.get(0)[1] > windowSize[1] - imageSize - 30) {  // 当超出矩形活动范围时，蛇头返回另一边
                             direction.set(0, new Integer[]{direction.get(0)[0], 0});
                         }
                     }
@@ -149,7 +149,7 @@ public class Panel extends JPanel {
         int[] foodDirection = new int[2];
         while(true){  // 不断地去产生随机食物坐标
             foodDirection[0] = imageSize*(new Random().nextInt((int)(windowSize[0] - 30)/imageSize));  // 产生[0,n)之间随机int值
-            foodDirection[1] = imageSize*(new Random().nextInt((int)(windowSize[0]/imageSize)));
+            foodDirection[1] = imageSize*(new Random().nextInt((int)(windowSize[1]/imageSize)));
             while (i < length){
                 if (foodDirection[0] == (int)direction.get(i)[0]&&foodDirection[1] == (int)direction.get(i)[1]) {
                     break;
@@ -174,7 +174,7 @@ public class Panel extends JPanel {
 //        //  在面板上画一张图片
 //        Images.headerImg.paintIcon(this,g,0,0);  // this指代当前画板，g指代画笔，xy为距离画板左上角的距离
         //  改变画笔的颜色，从而更改蛇的活动范围的矩形的颜色
-        g.setColor(new Color(149, 198, 144, 208));
+        g.setColor(new Color(238, 169, 169, 208));
         //  在面板上画蛇的活动范围，是一个矩形
 //        int[] windowSize = Start.getWindowSize();  // 得到画板的大小
         g.fillRect(0, 0, windowSize[0], windowSize[1]);
