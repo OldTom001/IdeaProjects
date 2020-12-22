@@ -19,10 +19,10 @@ public class Panel extends JPanel {
     private int length;
     private boolean flag = false;  // 定义一个变量，判断游戏是否开始，默认暂停
     private boolean isDie = false;  // 判断小蛇是否活着
-    private final int imageSize = 50;  // 图片的尺寸，作为面板的一个单元
+    private final int imageSize = 25;  // 图片的尺寸，作为面板的一个单元
     int[] windowSize = Start.getWindowSize();  // 得到画板的大小
     private int[] food = null;
-    private final int timeInterval = 150;  // 每隔多长时间小蛇前进一步
+    private final int timeInterval = 100;  // 每隔多长时间小蛇前进一步
     private int score;
     ArrayList<Integer[]> direction = new ArrayList<>();  // 用来存放蛇的每一节的位置坐标
     String goDirection = "R";  // 定义蛇的前进方向，默认为向右
@@ -184,7 +184,7 @@ public class Panel extends JPanel {
 //        //  在面板上画一张图片
 //        Images.headerImg.paintIcon(this,g,0,0);  // this指代当前画板，g指代画笔，xy为距离画板左上角的距离
         //  改变画笔的颜色，从而更改蛇的活动范围的矩形的颜色
-        g.setColor(new Color(238, 169, 169, 208));
+        g.setColor(new Color(169, 194, 238, 208));
         //  在面板上画蛇的活动范围，是一个矩形
 //        int[] windowSize = Start.getWindowSize();  // 得到画板的大小
         g.fillRect(0, 0, windowSize[0], windowSize[1]);
@@ -224,11 +224,7 @@ public class Panel extends JPanel {
             g.setFont(new Font("华文行楷", Font.BOLD, 50));
             g.drawString("蛇死亡，游戏结束！", windowSize[0] / 4, windowSize[1] / 3);
             g.drawString("点击空格重新开始游戏！", windowSize[0] / 5, windowSize[1] / 3 + 60);
-            g.setFont(new Font("华文行楷", Font.BOLD, 40));
-            g.setColor(new Color(12, 1, 1));
-            g.drawString("2020.12.23", windowSize[0] / 4 * 2 + 100, windowSize[1] / 4 * 2 + 100);
-            g.drawString("小蛇献给宝贝!", windowSize[0] / 4 * 2 + 100, windowSize[1] / 4 * 2 + 140);
-            Images.muaImg.paintIcon(this, g, windowSize[0] / 4 * 3, windowSize[1] / 4 * 2);
+
         }
     }
 }
