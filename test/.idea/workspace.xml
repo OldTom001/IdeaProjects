@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1177dd1f-1d85-45a4-9743-70f2388c75bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JZTv9iMe8QnkQ3uUQDGkUzZOMp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LearningNotes/Java/JavaWeb/1_JavaSEBooster" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestSomething.mySort">
+    <configuration name="CombinationSum4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombinationSum4" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Input" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSomething.mySort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSomething" />
+      <option name="METHOD_NAME" value="mySort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSomething.testCombinationSum4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSomething" />
+      <option name="METHOD_NAME" value="testCombinationSum4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSomething.mySort" />
+        <item itemvalue="JUnit.TestSomething.testCombinationSum4" />
+        <item itemvalue="Application.Input" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.CombinationSum4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1177dd1f-1d85-45a4-9743-70f2388c75bf" name="Default Changelist" comment="" />
+      <created>1672284833948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672284833948</updated>
+      <workItem from="1672284835348" duration="2149000" />
+      <workItem from="1672903640675" duration="464000" />
+      <workItem from="1672904170618" duration="15000" />
+      <workItem from="1673274049094" duration="860000" />
+      <workItem from="1674101455495" duration="25000" />
+      <workItem from="1675649990794" duration="5530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="0" key="#Project_Structure" timestamp="1672284842285">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="200" y="0" key="#Project_Structure/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672284842285" />
+    <state x="500" y="181" key="FileChooserDialogImpl" timestamp="1675651334405">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="500" y="181" key="FileChooserDialogImpl/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675651334405" />
+    <state width="1397" height="109" key="GridCell.Tab.0.bottom" timestamp="1675686033800">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1397" height="109" key="GridCell.Tab.0.bottom/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675686033800" />
+    <state width="1397" height="109" key="GridCell.Tab.0.center" timestamp="1675686033800">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1397" height="109" key="GridCell.Tab.0.center/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675686033800" />
+    <state width="1397" height="109" key="GridCell.Tab.0.left" timestamp="1675686033800">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1397" height="109" key="GridCell.Tab.0.left/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675686033800" />
+    <state width="1397" height="109" key="GridCell.Tab.0.right" timestamp="1675686033800">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1397" height="109" key="GridCell.Tab.0.right/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675686033800" />
+    <state width="1397" height="263" key="GridCell.Tab.1.bottom" timestamp="1672294734296">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1397" height="263" key="GridCell.Tab.1.bottom/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672294734296" />
+    <state width="1397" height="263" key="GridCell.Tab.1.center" timestamp="1672294734296">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1397" height="263" key="GridCell.Tab.1.center/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672294734296" />
+    <state width="1397" height="263" key="GridCell.Tab.1.left" timestamp="1672294734296">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1397" height="263" key="GridCell.Tab.1.left/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672294734296" />
+    <state width="1397" height="263" key="GridCell.Tab.1.right" timestamp="1672294734296">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1397" height="263" key="GridCell.Tab.1.right/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672294734296" />
+    <state x="200" y="0" key="SettingsEditor" timestamp="1672284856212">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="200" y="0" key="SettingsEditor/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672284856212" />
+    <state x="418" y="317" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1675651437340">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="418" y="317" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675651437340" />
+    <state x="383" y="173" width="672" height="678" key="search.everywhere.popup" timestamp="1675672193712">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="383" y="173" width="672" height="678" key="search.everywhere.popup/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675672193712" />
+  </component>
+</project>
