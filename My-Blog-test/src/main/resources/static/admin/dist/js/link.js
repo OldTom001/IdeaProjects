@@ -58,6 +58,7 @@ function linkAdd() {
 }
 
 //绑定modal上的保存按钮
+//根据id是否为存在, 区分添加和修改
 $('#saveButton').click(function () {
     var linkId = $("#linkId").val();
     var linkName = $("#linkName").val();
