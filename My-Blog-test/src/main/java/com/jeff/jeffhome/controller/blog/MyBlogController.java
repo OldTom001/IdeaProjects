@@ -49,6 +49,7 @@ public class MyBlogController {
      */
     @GetMapping({"/", "/index", "index.html"})
     public String index(HttpServletRequest request) {
+
         return this.page(request, 1);
     }
 

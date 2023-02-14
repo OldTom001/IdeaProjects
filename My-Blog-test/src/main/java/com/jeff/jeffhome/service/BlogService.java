@@ -35,7 +35,7 @@ public interface BlogService {
     String updateBlog(Blog blog);
 
     /**
-     * 获取首页文章列表
+     * 获取首页文章列表(博客系统)
      *
      * @param page
      * @return
@@ -43,7 +43,7 @@ public interface BlogService {
     PageResult getBlogsForIndexPage(int page);
 
     /**
-     * 首页侧边栏数据列表
+     * 首页侧边栏数据列表(博客系统)
      * 0-点击最多 1-最新发布
      *
      * @param type
