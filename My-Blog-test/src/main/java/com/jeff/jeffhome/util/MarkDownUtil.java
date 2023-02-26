@@ -9,7 +9,7 @@ import org.springframework.util.StringUtils;
 
 import java.util.Arrays;
 
-//貌似没有使用
+//将数据库中的md格式转换成博客详情页面展示的html格式.
 public class MarkDownUtil {
     /**
      * 转换md格式为html
