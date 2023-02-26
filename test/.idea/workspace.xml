@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1177dd1f-1d85-45a4-9743-70f2388c75bf" name="Default Changelist" comment="" />
+    <list default="true" id="1177dd1f-1d85-45a4-9743-70f2388c75bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularExpressionMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My-Blog-master/static-files/my_blog_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Blog-master/static-files/my_blog_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My-Blog-test/src/main/java/com/jeff/jeffhome/controller/admin/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Blog-test/src/main/java/com/jeff/jeffhome/controller/admin/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My-Blog-test/src/main/java/com/jeff/jeffhome/util/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Blog-test/src/main/java/com/jeff/jeffhome/util/MD5Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My-Blog-test/src/main/java/com/jeff/jeffhome/util/MarkDownUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Blog-test/src/main/java/com/jeff/jeffhome/util/MarkDownUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/TestSomething.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/TestSomething.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestSomething.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestSomething.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +28,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2JZTv9iMe8QnkQ3uUQDGkUzZOMp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,65 +48,60 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LearningNotes/Java/JavaWeb/1_JavaSEBooster" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hm-dianping-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.TestSomething.mySort">
-    <configuration name="CombinationSum4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CombinationSum4" />
+  <component name="RunManager" selected="Application.WordSearch">
+    <configuration name="GenerateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateParenthesis" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LRUCache" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Input" />
+    <configuration name="LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestValidParentheses" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSomething.mySort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NextPermutation" />
       <module name="test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestSomething" />
-      <option name="METHOD_NAME" value="mySort" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSomething.testCombinationSum4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordSearch" />
       <module name="test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestSomething" />
-      <option name="METHOD_NAME" value="testCombinationSum4" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestSomething.mySort" />
-        <item itemvalue="JUnit.TestSomething.testCombinationSum4" />
-        <item itemvalue="Application.Input" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.CombinationSum4" />
+        <item itemvalue="Application.WordSearch" />
+        <item itemvalue="Application.LRUCache" />
+        <item itemvalue="Application.LongestValidParentheses" />
+        <item itemvalue="Application.NextPermutation" />
+        <item itemvalue="Application.GenerateParenthesis" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -103,64 +118,52 @@
       <workItem from="1673274049094" duration="860000" />
       <workItem from="1674101455495" duration="25000" />
       <workItem from="1675649990794" duration="5530000" />
+      <workItem from="1676095636706" duration="2635000" />
+      <workItem from="1676121924729" duration="2480000" />
+      <workItem from="1676271324341" duration="3702000" />
+      <workItem from="1676352616433" duration="1296000" />
+      <workItem from="1676380725886" duration="7000" />
+      <workItem from="1676445191161" duration="3197000" />
+      <workItem from="1676536107636" duration="1043000" />
+      <workItem from="1676792060096" duration="10000" />
+      <workItem from="1677309525115" duration="1438000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="200" y="0" key="#Project_Structure" timestamp="1672284842285">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state x="200" y="0" key="#Project_Structure/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672284842285" />
-    <state x="500" y="181" key="FileChooserDialogImpl" timestamp="1675651334405">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state x="500" y="181" key="FileChooserDialogImpl/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675651334405" />
-    <state width="1397" height="109" key="GridCell.Tab.0.bottom" timestamp="1675686033800">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state width="1397" height="109" key="GridCell.Tab.0.bottom/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675686033800" />
-    <state width="1397" height="109" key="GridCell.Tab.0.center" timestamp="1675686033800">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state width="1397" height="109" key="GridCell.Tab.0.center/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675686033800" />
-    <state width="1397" height="109" key="GridCell.Tab.0.left" timestamp="1675686033800">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state width="1397" height="109" key="GridCell.Tab.0.left/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675686033800" />
-    <state width="1397" height="109" key="GridCell.Tab.0.right" timestamp="1675686033800">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state width="1397" height="109" key="GridCell.Tab.0.right/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675686033800" />
-    <state width="1397" height="263" key="GridCell.Tab.1.bottom" timestamp="1672294734296">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state width="1397" height="263" key="GridCell.Tab.1.bottom/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672294734296" />
-    <state width="1397" height="263" key="GridCell.Tab.1.center" timestamp="1672294734296">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state width="1397" height="263" key="GridCell.Tab.1.center/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672294734296" />
-    <state width="1397" height="263" key="GridCell.Tab.1.left" timestamp="1672294734296">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state width="1397" height="263" key="GridCell.Tab.1.left/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672294734296" />
-    <state width="1397" height="263" key="GridCell.Tab.1.right" timestamp="1672294734296">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state width="1397" height="263" key="GridCell.Tab.1.right/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672294734296" />
-    <state x="200" y="0" key="SettingsEditor" timestamp="1672284856212">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state x="200" y="0" key="SettingsEditor/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1672284856212" />
-    <state x="418" y="317" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1675651437340">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state x="418" y="317" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675651437340" />
-    <state x="383" y="173" width="672" height="678" key="search.everywhere.popup" timestamp="1675672193712">
-      <screen x="0" y="0" width="1440" height="852" />
-    </state>
-    <state x="383" y="173" width="672" height="678" key="search.everywhere.popup/-242.900.1536.826/0.0.1440.852@0.0.1440.852" timestamp="1675672193712" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenerateParenthesis.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LRUCache.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordSearch.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
