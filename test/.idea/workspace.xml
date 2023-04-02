@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1177dd1f-1d85-45a4-9743-70f2388c75bf" name="Default Changelist" comment="" />
+    <list default="true" id="1177dd1f-1d85-45a4-9743-70f2388c75bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/TaskScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/TaskScheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/TestSomething.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/TestSomething.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +27,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2JZTv9iMe8QnkQ3uUQDGkUzZOMp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,50 +60,58 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.TaskScheduler">
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LRUCache" />
+  <component name="RunManager" selected="Application.TestStream">
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpiralMatrix" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinPathSum" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchInRotatedSortedArray" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskScheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskScheduler" />
+    <configuration name="TestStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestStream" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordSearch" />
+    <configuration name="dc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dc" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.dc" />
+      <item itemvalue="Application.SpiralMatrix" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.TestStream" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaskScheduler" />
-        <item itemvalue="Application.SearchInRotatedSortedArray" />
-        <item itemvalue="Application.MinPathSum" />
-        <item itemvalue="Application.WordSearch" />
-        <item itemvalue="Application.LRUCache" />
+        <item itemvalue="Application.TestStream" />
+        <item itemvalue="Application.dc" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.SpiralMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +146,17 @@
       <workItem from="1677659514210" duration="12000" />
       <workItem from="1677737051877" duration="1609000" />
       <workItem from="1677810313430" duration="17000" />
+      <workItem from="1678273373168" duration="1551000" />
+      <workItem from="1678284324657" duration="562000" />
+      <workItem from="1678703940875" duration="12000" />
+      <workItem from="1678881211734" duration="2433000" />
+      <workItem from="1678964923128" duration="3051000" />
+      <workItem from="1679037259841" duration="150000" />
+      <workItem from="1679104623114" duration="1361000" />
+      <workItem from="1679147380916" duration="297000" />
+      <workItem from="1680338614146" duration="785000" />
+      <workItem from="1680339420825" duration="1845000" />
+      <workItem from="1680421206282" duration="28000" />
     </task>
     <servers />
   </component>
@@ -159,6 +197,11 @@
           <url>file://$PROJECT_DIR$/src/MinPathSum.java</url>
           <line>3</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SpiralMatrix.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
