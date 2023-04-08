@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1177dd1f-1d85-45a4-9743-70f2388c75bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hm-dianping-init/超卖一人一单.jmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping-init/超卖.jmx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/TaskScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/TaskScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/TestSomething.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/TestSomething.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/TestStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/TestStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/dc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/dc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +59,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.TestStream">
-    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpiralMatrix" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MyThread.blockedTest">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="test" />
@@ -98,20 +88,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyThread.blockedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyThread" />
+      <option name="METHOD_NAME" value="blockedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.dc" />
-      <item itemvalue="Application.SpiralMatrix" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test2" />
       <item itemvalue="Application.TestStream" />
+      <item itemvalue="JUnit.MyThread.blockedTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestStream" />
+        <item itemvalue="JUnit.MyThread.blockedTest" />
         <item itemvalue="Application.dc" />
+        <item itemvalue="Application.TestStream" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.SpiralMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +157,10 @@
       <workItem from="1680338614146" duration="785000" />
       <workItem from="1680339420825" duration="1845000" />
       <workItem from="1680421206282" duration="28000" />
+      <workItem from="1680519313853" duration="4334000" />
+      <workItem from="1680586201029" duration="1185000" />
+      <workItem from="1680681100717" duration="20000" />
+      <workItem from="1680870665908" duration="3066000" />
     </task>
     <servers />
   </component>
