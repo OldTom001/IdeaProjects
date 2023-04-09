@@ -4,6 +4,8 @@ import com.hmdp.service.IShopService;
 
 import com.hmdp.utils.RedisIdWorker;
 import org.junit.jupiter.api.Test;
+import org.redisson.api.RLock;
+import org.redisson.api.RedissonClient;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import javax.annotation.Resource;
@@ -11,6 +13,7 @@ import java.sql.Timestamp;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 
 @SpringBootTest
 class HmDianPingApplicationTests {
@@ -20,6 +23,9 @@ class HmDianPingApplicationTests {
 
     @Resource
     private RedisIdWorker redisIdWorker;
+
+    @Resource
+    private RedissonClient redissonClient;
 
     private ExecutorService es = Executors.newFixedThreadPool(500);
     @Test
@@ -53,6 +59,23 @@ class HmDianPingApplicationTests {
         long end = System.currentTimeMillis();
         System.out.println("time = " + (end - begin));
     }
+
+    @Test
+    void testRedisson() throws InterruptedException {
+        RLock lock = redissonClient.getLock("anyLock");
+        boolean isLock = lock.tryLock(1, 100, TimeUnit.SECONDS);
+        if(isLock){
+            try {
+                System.out.println("执行业务");
+            } finally {
+                //lock.unlock();
+            }
+        }else{
+            System.out.println("获取锁失败");
+        }
+    }
+
+
 
 
 
