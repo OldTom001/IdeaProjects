@@ -35,6 +35,10 @@ public class SimpleRedisLock implements ILock{
 
     @Override
     public void unlock() {
-        stringRedisTemplate.execute(UNLOCK_SCRIPT, Collections.singletonList(KEY_PREFIX+name), ID_PREFIX+Thread.currentThread().getId());
+        stringRedisTemplate.execute(
+                UNLOCK_SCRIPT,
+                Collections.singletonList(KEY_PREFIX+name),
+                ID_PREFIX+Thread.currentThread().getId()
+        );
     }
 }
